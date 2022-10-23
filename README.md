@@ -2,7 +2,7 @@
 the first year project with c++ language
 
 <h1>flash card section</h1>
-<a href="https://ibb.co/17BpdLz"><img src="https://i.ibb.co/2WRLsyZ/Screenshot-2022-10-22-222409.png" alt="flash card section" border="0" /></a>
+<img src="https://i.ibb.co/2WRLsyZ/Screenshot-2022-10-22-222409.png" alt="flash card section" border="0" />
 <h1>home section</h>
 
 <a href="https://ibb.co/gTGLVdx"><img src="https://i.ibb.co/PhRvQMd/Screenshot-2022-10-22-222436.png" alt="Screenshot-2022-10-22-222436" border="0" /></a>
